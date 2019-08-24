@@ -1,8 +1,6 @@
 # vim-header
 a vim header for personal projects
 
-![fancy header image](http://i.imgur.com/WTscMvi.png)
-
 ## Features
 * Elegant trimming of long strings
 * Updates filename line when changed

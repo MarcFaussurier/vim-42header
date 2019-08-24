@@ -1,10 +1,9 @@
-# vim-42header
-a (better) vim header for 42 projects
+# vim-header
+a vim header for personal projects
 
 ![fancy header image](http://i.imgur.com/WTscMvi.png)
 
 ## Features
-* Passes `norminette`
 * Elegant trimming of long strings
 * Updates filename line when changed
 * Updates "Updated" line only when buffer is changed
